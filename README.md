@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/esr4m14sjee361ti?svg=true)](https://ci.appveyor.com/project/VasilevNik/pageobjects)
